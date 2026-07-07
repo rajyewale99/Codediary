@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->

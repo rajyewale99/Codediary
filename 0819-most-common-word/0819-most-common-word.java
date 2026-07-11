@@ -2,7 +2,7 @@ class Solution {
     public String mostCommonWord(String paragraph, String[] banned) {
         String stri = paragraph.toLowerCase();
         System.out.println(stri);
-        String str[] = stri.split("[ ,.!?;']+");
+        String[] str = stri.split("[^a-z]+");
         HashMap<String,Integer>map = new HashMap<>();
         for(int i=0; i<str.length; i++){
             map.put(str[i], map.getOrDefault(str[i],0)+1);

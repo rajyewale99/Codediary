@@ -1,19 +1,19 @@
 class Solution {
     public int reverse(int x) {
-        long res = 0;
-        int sign = 1;
-        if(x<0) {
-            sign = -1;
+        int flag = 1;
+        if(x<0){
+            flag = -1;
             x = -x;
         }
+        long n = 0;
         while(x>0){
-            res*=10;
-            res+=(x%10);
+            n*=10;
+            n+=(x%10);
             x = x/10;
-            if(res<Integer.MIN_VALUE || res>Integer.MAX_VALUE){
+            if(n<Integer.MIN_VALUE || n>Integer.MAX_VALUE){
                 return 0;
             }
         }
-        return (int)(sign*res);
+        return (int)n*flag;
     }
 }

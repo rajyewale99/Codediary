@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/rajyewale99/Leetcode/tree/master/0626-exchange-seats) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/rajyewale99/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Array

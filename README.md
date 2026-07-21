@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/rajyewale99/Leetcode/tree/master/0197-rising-temperature) |
 | [0610-triangle-judgement](https://github.com/rajyewale99/Leetcode/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/rajyewale99/Leetcode/tree/master/0626-exchange-seats) |
+| [1174-immediate-food-delivery-ii](https://github.com/rajyewale99/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/rajyewale99/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |

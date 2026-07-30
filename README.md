@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rajyewale99/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajyewale99/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/rajyewale99/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajyewale99/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/rajyewale99/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajyewale99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rajyewale99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/rajyewale99/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |

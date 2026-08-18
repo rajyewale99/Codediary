@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rajyewale99/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajyewale99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rajyewale99/Leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |

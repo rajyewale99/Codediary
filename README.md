@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/rajyewale99/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rajyewale99/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/rajyewale99/Leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1729-find-followers-count](https://github.com/rajyewale99/Codediary/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/rajyewale99/Leetcode/tree/master/1907-count-salary-categories) |

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/rajyewale99/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/rajyewale99/Leetcode/tree/master/1907-count-salary-categories) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rajyewale99/Codediary/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/rajyewale99/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Array
 |  |

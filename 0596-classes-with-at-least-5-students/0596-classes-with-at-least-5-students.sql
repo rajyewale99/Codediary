@@ -2,5 +2,5 @@
 SELECT 
     class
 From Courses
-    group by class
+    GROUP BY class
     HAVING COUNT(class)>=5;

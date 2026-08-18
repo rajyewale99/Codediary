@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/rajyewale99/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/rajyewale99/Codediary/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/rajyewale99/Leetcode/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/rajyewale99/Codediary/tree/master/1045-customers-who-bought-all-products) |
 | [1174-immediate-food-delivery-ii](https://github.com/rajyewale99/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rajyewale99/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/rajyewale99/Leetcode/tree/master/1587-bank-account-summary-ii) |

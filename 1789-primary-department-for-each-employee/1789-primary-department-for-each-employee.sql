@@ -1,15 +1,15 @@
 # Write your MySQL query statement below
-SELECT
+SELECT 
     employee_id,
     department_id
-FROM employee
+FROM Employee
 WHERE primary_flag='Y'
 
-UNION
+UNION 
 
-SELECT
+SELECT 
     employee_id,
     department_id
-FROM employee
+FROM Employee
 GROUP BY employee_id
-HAVING count(*)=1;
+HAVING COUNT(employee_id)=1;

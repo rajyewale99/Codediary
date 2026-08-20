@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/rajyewale99/Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/rajyewale99/Codediary/tree/master/1045-customers-who-bought-all-products) |
 | [1174-immediate-food-delivery-ii](https://github.com/rajyewale99/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1484-group-sold-products-by-the-date](https://github.com/rajyewale99/Codediary/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rajyewale99/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/rajyewale99/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/rajyewale99/Codediary/tree/master/1729-find-followers-count) |

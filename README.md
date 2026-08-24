@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/rajyewale99/Codediary/tree/master/1045-customers-who-bought-all-products) |
 | [1164-product-price-at-a-given-date](https://github.com/rajyewale99/Codediary/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/rajyewale99/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1341-movie-rating](https://github.com/rajyewale99/Codediary/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/rajyewale99/Codediary/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rajyewale99/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/rajyewale99/Leetcode/tree/master/1587-bank-account-summary-ii) |

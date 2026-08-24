@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/rajyewale99/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/rajyewale99/Leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/rajyewale99/Leetcode/tree/master/0550-game-play-analysis-iv) |
+| [0585-investments-in-2016](https://github.com/rajyewale99/Codediary/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/rajyewale99/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/rajyewale99/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/rajyewale99/Codediary/tree/master/0619-biggest-single-number) |

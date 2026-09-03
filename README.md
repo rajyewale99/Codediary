@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rajyewale99/Codediary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rajyewale99/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajyewale99/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/rajyewale99/Codediary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/rajyewale99/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajyewale99/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rajyewale99/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/rajyewale99/Codediary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/rajyewale99/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |

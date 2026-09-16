@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajyewale99/Codediary/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rajyewale99/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajyewale99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rajyewale99/Codediary/tree/master/0836-rectangle-overlap) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajyewale99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajyewale99/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajyewale99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajyewale99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajyewale99/Codediary/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajyewale99/Codediary/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |

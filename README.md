@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/rajyewale99/Codediary/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/rajyewale99/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/rajyewale99/Codediary/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/rajyewale99/Leetcode/tree/master/0185-department-top-three-salaries) |

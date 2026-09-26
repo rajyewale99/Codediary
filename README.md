@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajyewale99/Codediary/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajyewale99/Codediary/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Database
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajyewale99/Codediary/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajyewale99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajyewale99/Codediary/tree/master/2091-removing-minimum-and-maximum-from-array) |

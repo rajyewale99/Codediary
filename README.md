@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajyewale99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajyewale99/Codediary/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2256-minimum-average-difference](https://github.com/rajyewale99/Codediary/tree/master/2256-minimum-average-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajyewale99/Codediary/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2256-minimum-average-difference](https://github.com/rajyewale99/Codediary/tree/master/2256-minimum-average-difference) |
 | [3903-smallest-stable-index-i](https://github.com/rajyewale99/Codediary/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
 |  |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/rajyewale99/Codediary/tree/master/0820-short-encoding-of-words) |
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/rajyewale99/Codediary/tree/master/0820-short-encoding-of-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajyewale99/Codediary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rajyewale99/Codediary/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rajyewale99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/rajyewale99/Codediary/tree/master/0820-short-encoding-of-words) |
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyewale99/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
+| [0820-short-encoding-of-words](https://github.com/rajyewale99/Codediary/tree/master/0820-short-encoding-of-words) |
 ## Two Pointers
 |  |
 | ------- |

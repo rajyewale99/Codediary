@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rajyewale99/Codediary/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajyewale99/Codediary/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajyewale99/Codediary/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/rajyewale99/Codediary/tree/master/2833-furthest-point-from-origin) |
 | [3582-generate-tag-for-video-caption](https://github.com/rajyewale99/Codediary/tree/master/3582-generate-tag-for-video-caption) |
 ## Database
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajyewale99/Codediary/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2833-furthest-point-from-origin](https://github.com/rajyewale99/Codediary/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |

@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/rajyewale99/Leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/rajyewale99/Codediary/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rajyewale99/Codediary/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/rajyewale99/Codediary/tree/master/3220-odd-and-even-transactions) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/rajyewale99/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/rajyewale99/Codediary/tree/master/3475-dna-pattern-recognition) |
 ## Array

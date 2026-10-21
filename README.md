@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rajyewale99/Codediary/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajyewale99/Codediary/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajyewale99/Codediary/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/rajyewale99/Codediary/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/rajyewale99/Codediary/tree/master/2833-furthest-point-from-origin) |
 | [3582-generate-tag-for-video-caption](https://github.com/rajyewale99/Codediary/tree/master/3582-generate-tag-for-video-caption) |
 ## Database
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyewale99/Codediary/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/rajyewale99/Codediary/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajyewale99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajyewale99/Codediary/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rajyewale99/Leetcode/tree/master/3731-find-missing-elements) |

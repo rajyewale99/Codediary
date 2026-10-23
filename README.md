@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajyewale99/Codediary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajyewale99/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/rajyewale99/Codediary/tree/master/0041-first-missing-positive) |
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/rajyewale99/Leetcode/tree/master/0819-most-common-word) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rajyewale99/Codediary/tree/master/0041-first-missing-positive) |
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rajyewale99/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajyewale99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |

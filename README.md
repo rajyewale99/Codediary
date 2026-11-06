@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/rajyewale99/Codediary/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/rajyewale99/Codediary/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/rajyewale99/Codediary/tree/master/2833-furthest-point-from-origin) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/rajyewale99/Codediary/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/rajyewale99/Codediary/tree/master/3582-generate-tag-for-video-caption) |
 ## Database
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyewale99/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/rajyewale99/Codediary/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajyewale99/Leetcode/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajyewale99/Codediary/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/rajyewale99/Codediary/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Recursion
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajyewale99/Codediary/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajyewale99/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/rajyewale99/Codediary/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Simulation
 |  |
 | ------- |

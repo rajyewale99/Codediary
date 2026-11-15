@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/rajyewale99/Codediary/tree/master/2256-minimum-average-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajyewale99/Codediary/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajyewale99/Codediary/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rajyewale99/Codediary/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajyewale99/Codediary/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2256-minimum-average-difference](https://github.com/rajyewale99/Codediary/tree/master/2256-minimum-average-difference) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rajyewale99/Codediary/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rajyewale99/Codediary/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
 |  |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajyewale99/Codediary/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/rajyewale99/Codediary/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/rajyewale99/Codediary/tree/master/2256-minimum-average-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajyewale99/Codediary/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajyewale99/Codediary/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rajyewale99/Codediary/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajyewale99/Codediary/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyewale99/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyewale99/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rajyewale99/Codediary/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/rajyewale99/Codediary/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajyewale99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyewale99/Codediary/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/rajyewale99/Codediary/tree/master/2785-sort-vowels-in-a-string) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rajyewale99/Codediary/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajyewale99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajyewale99/Codediary/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rajyewale99/Leetcode/tree/master/3731-find-missing-elements) |

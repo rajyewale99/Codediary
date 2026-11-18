@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajyewale99/Codediary/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rajyewale99/Codediary/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajyewale99/Codediary/tree/master/3364-minimum-positive-sum-subarray) |
+| [3452-sum-of-good-numbers](https://github.com/rajyewale99/Codediary/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajyewale99/Codediary/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyewale99/Codediary/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajyewale99/Codediary/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

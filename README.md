@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rajyewale99/Codediary/tree/master/0041-first-missing-positive) |
+| [0198-house-robber](https://github.com/rajyewale99/Codediary/tree/master/0198-house-robber) |
 | [0500-keyboard-row](https://github.com/rajyewale99/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rajyewale99/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajyewale99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/rajyewale99/Codediary/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/rajyewale99/Leetcode/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajyewale99/Codediary/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/rajyewale99/Codediary/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
